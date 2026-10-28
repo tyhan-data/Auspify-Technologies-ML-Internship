@@ -1,8 +1,8 @@
-# 🎬 Netflix Data Science & Machine Learning Internship Projects
+# 🎬 Netflix Machine Learning Internship Projects
 
 ### From Recommendation Systems to Time-Series Forecasting
 
-Welcome to my machine learning internship project repository! This repository showcases the practical work I completed during my internship at **Spify**, where I explored different machine learning techniques using the Netflix Movies and TV Shows dataset.
+Welcome to my machine learning internship project repository! This repository showcases the practical work I completed during my internship at **Auspify Technologies**, where I explored different machine learning techniques using the Netflix Movies and TV Shows dataset.
 
 Throughout this journey, I worked on recommendation systems, classification, unsupervised learning, and time-series forecasting. Each task helped me strengthen my understanding of data preprocessing, feature engineering, model training, evaluation, and practical machine learning applications.
 
